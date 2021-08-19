@@ -188,7 +188,7 @@ img {
     display: block;
     margin: 2em 1em;
 height: 50px;
-object-fit: cover;
+object-fit: contain;
 }
 
 .images {
@@ -224,6 +224,6 @@ div.links span {
         width: 100px;
         margin: 0.6em;
 height: 30px;
-object-fit: cover;
+object-fit: contain;
     }
 }
